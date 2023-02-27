@@ -187,6 +187,6 @@ footer {
     justify-content: center;
 }
 
-input:valid {
+input:invalid {
     border: 1px solid #ff1010;
 }
